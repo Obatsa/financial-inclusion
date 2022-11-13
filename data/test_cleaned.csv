@@ -20,6 +20,7 @@ Kenya,Rural,No,68,Female,Head of Household,Divorced/Seperated,Primary education,
 Kenya,Urban,No,20,Female,Child,Single/Never Married,Secondary education,Remittance Dependent,size btw 4 and 6
 Kenya,Urban,No,70,Male,Head of Household,Married/Living together,No formal education,Government Dependent,size btw 7 and 10
 Kenya,Rural,Yes,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
+Kenya,Rural,No,95,Female,Head of Household,Widowed,Primary education,Government Dependent,size 3 or below
 Kenya,Rural,Yes,30,Female,Head of Household,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,27,Male,Head of Household,Married/Living together,Secondary education,Informally employed,size btw 4 and 6
 Kenya,Rural,Yes,70,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
@@ -38,6 +39,7 @@ Kenya,Rural,Yes,36,Female,Spouse,Married/Living together,Primary education,Remit
 Kenya,Urban,Yes,52,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Kenya,Urban,Yes,20,Male,Child,Single/Never Married,Secondary education,Self employed,size 3 or below
 Kenya,Urban,Yes,35,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed,size 3 or below
+Kenya,Rural,No,70,Female,Head of Household,Widowed,No formal education,Other Income,size 3 or below
 Kenya,Urban,Yes,22,Male,Head of Household,Single/Never Married,Tertiary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,30,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,Yes,53,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
@@ -99,7 +101,9 @@ Kenya,Rural,No,25,Female,Other relative,Married/Living together,Secondary educat
 Kenya,Urban,Yes,28,Male,Head of Household,Single/Never Married,Tertiary education,Informally employed,size 3 or below
 Kenya,Urban,Yes,24,Male,Head of Household,Single/Never Married,Secondary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,55,Female,Head of Household,Married/Living together,Vocational/Specialised training,Self employed,size 3 or below
+Kenya,Rural,No,91,Male,Head of Household,Married/Living together,No formal education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
+Kenya,Rural,No,95,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size btw 4 and 6
 Kenya,Rural,Yes,26,Female,Spouse,Married/Living together,No formal education,Remittance Dependent,size btw 4 and 6
 Kenya,Urban,Yes,50,Female,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,32,Female,Child,Divorced/Seperated,Primary education,Informally employed,size btw 7 and 10
@@ -108,6 +112,7 @@ Kenya,Rural,Yes,30,Male,Child,Married/Living together,Secondary education,Self e
 Kenya,Rural,Yes,46,Female,Head of Household,Married/Living together,Secondary education,Remittance Dependent,size 3 or below
 Kenya,Rural,No,23,Female,Head of Household,Single/Never Married,Secondary education,Farming and Fishing,size 3 or below
 Kenya,Rural,No,17,Female,Child,Single/Never Married,Secondary education,Remittance Dependent,size btw 7 and 10
+Kenya,Rural,No,87,Female,Head of Household,Married/Living together,No formal education,Informally employed,size 3 or below
 Kenya,Rural,Yes,56,Female,Head of Household,Widowed,Primary education,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,27,Female,Head of Household,Single/Never Married,Tertiary education,Formally employed Private,size 3 or below
 Kenya,Rural,Yes,57,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
@@ -176,6 +181,7 @@ Kenya,Rural,Yes,30,Female,Head of Household,Married/Living together,Primary educ
 Kenya,Urban,Yes,30,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Kenya,Urban,Yes,45,Male,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Kenya,Urban,Yes,23,Female,Head of Household,Single/Never Married,Secondary education,Remittance Dependent,size 3 or below
+Kenya,Rural,Yes,47,Female,Spouse,Married/Living together,No formal education,Self employed,size btw 7 and 10
 Kenya,Rural,Yes,26,Female,Spouse,Married/Living together,Vocational/Specialised training,Informally employed,size btw 4 and 6
 Kenya,Urban,Yes,20,Male,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Kenya,Urban,Yes,25,Male,Head of Household,Single/Never Married,Secondary education,Informally employed,size 3 or below
@@ -259,6 +265,7 @@ Kenya,Rural,Yes,32,Male,Other relative,Married/Living together,Primary education
 Kenya,Urban,Yes,29,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,33,Female,Head of Household,Married/Living together,No formal education,Remittance Dependent,size btw 7 and 10
 Kenya,Urban,Yes,48,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 4 and 6
+Kenya,Urban,No,90,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,48,Female,Spouse,Married/Living together,Primary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,Yes,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
@@ -369,6 +376,7 @@ Kenya,Rural,Yes,45,Female,Spouse,Married/Living together,No formal education,Inf
 Kenya,Rural,No,75,Male,Head of Household,Divorced/Seperated,Primary education,Government Dependent,size btw 4 and 6
 Kenya,Urban,Yes,38,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Kenya,Urban,Yes,74,Female,Spouse,Married/Living together,Primary education,Remittance Dependent,size 3 or below
+Kenya,Rural,No,95,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size 3 or below
 Kenya,Urban,Yes,28,Female,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,39,Male,Head of Household,Divorced/Seperated,Primary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,29,Female,Spouse,Married/Living together,Primary education,Informally employed,size 3 or below
@@ -423,6 +431,7 @@ Kenya,Rural,No,20,Male,Child,Single/Never Married,Secondary education,Farming an
 Kenya,Rural,Yes,36,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,Yes,46,Male,Head of Household,Divorced/Seperated,No formal education,Informally employed,size btw 4 and 6
 Kenya,Rural,Yes,61,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size 3 or below
+Kenya,Urban,No,86,Female,Head of Household,Widowed,Primary education,Other Income,size 3 or below
 Kenya,Urban,Yes,33,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Kenya,Urban,Yes,50,Male,Head of Household,Married/Living together,Secondary education,Self employed,size 3 or below
 Kenya,Rural,Yes,27,Female,Head of Household,Divorced/Seperated,Secondary education,Formally employed Private,size 3 or below
@@ -690,6 +699,7 @@ Kenya,Rural,No,18,Male,Child,Single/Never Married,Secondary education,Informally
 Kenya,Rural,Yes,43,Male,Head of Household,Married/Living together,Secondary education,Formally employed Government,size 3 or below
 Kenya,Rural,Yes,40,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,Yes,26,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size 3 or below
+Kenya,Rural,Yes,95,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Kenya,Urban,Yes,30,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Kenya,Urban,Yes,27,Female,Spouse,Married/Living together,Vocational/Specialised training,Self employed,size 3 or below
 Kenya,Rural,Yes,21,Male,Child,Single/Never Married,Secondary education,Farming and Fishing,size 3 or below
@@ -738,6 +748,7 @@ Kenya,Rural,No,16,Female,Child,Single/Never Married,Secondary education,Remittan
 Kenya,Urban,Yes,23,Female,Head of Household,Single/Never Married,Tertiary education,Other Income,size 3 or below
 Kenya,Rural,Yes,43,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,19,Female,Other relative,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
+Kenya,Rural,Yes,90,Female,Head of Household,Widowed,No formal education,Informally employed,size 3 or below
 Kenya,Urban,Yes,22,Male,Head of Household,Married/Living together,Secondary education,Formally employed Private,size 3 or below
 Kenya,Urban,Yes,28,Female,Spouse,Married/Living together,Secondary education,Self employed,size btw 4 and 6
 Kenya,Urban,Yes,35,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Private,size btw 4 and 6
@@ -851,6 +862,7 @@ Kenya,Urban,Yes,37,Female,Head of Household,Married/Living together,Secondary ed
 Kenya,Urban,Yes,30,Female,Head of Household,Married/Living together,Secondary education,Self employed,size 3 or below
 Kenya,Urban,No,16,Male,Other relative,Single/Never Married,Primary education,Remittance Dependent,size btw 7 and 10
 Kenya,Urban,Yes,24,Male,Head of Household,Married/Living together,Primary education,Formally employed Government,size 3 or below
+Kenya,Rural,No,90,Female,Parent,Widowed,No formal education,Remittance Dependent,size btw 4 and 6
 Kenya,Rural,Yes,48,Female,Head of Household,Widowed,Primary education,Formally employed Government,size btw 7 and 10
 Kenya,Urban,Yes,37,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
 Kenya,Rural,No,69,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
@@ -934,6 +946,7 @@ Kenya,Rural,Yes,50,Female,Head of Household,Married/Living together,Secondary ed
 Kenya,Rural,Yes,22,Female,Head of Household,Single/Never Married,Vocational/Specialised training,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,32,Male,Head of Household,Married/Living together,Secondary education,Formally employed Government,size 3 or below
 Kenya,Rural,No,18,Female,Child,Single/Never Married,Primary education,Remittance Dependent,size btw 4 and 6
+Kenya,Urban,Yes,87,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Kenya,Urban,Yes,40,Female,Other relative,Divorced/Seperated,No formal education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,30,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 7 and 10
 Kenya,Rural,Yes,45,Female,Spouse,Married/Living together,Primary education,Remittance Dependent,size btw 4 and 6
@@ -1019,6 +1032,7 @@ Kenya,Rural,Yes,52,Male,Head of Household,Married/Living together,Primary educat
 Kenya,Urban,Yes,52,Male,Head of Household,Married/Living together,Vocational/Specialised training,Formally employed Government,size 3 or below
 Kenya,Urban,Yes,33,Male,Head of Household,Married/Living together,Vocational/Specialised training,Formally employed Government,size 3 or below
 Kenya,Urban,Yes,29,Male,Other relative,Single/Never Married,No formal education,Self employed,size btw 4 and 6
+Kenya,Rural,Yes,74,Male,Head of Household,Married/Living together,No formal education,Other Income,size 3 or below
 Kenya,Rural,Yes,49,Female,Parent,Married/Living together,No formal education,Self employed,size 3 or below
 Kenya,Urban,Yes,35,Male,Head of Household,Married/Living together,Secondary education,Formally employed Private,size 3 or below
 Kenya,Urban,Yes,45,Male,Head of Household,Married/Living together,Secondary education,Formally employed Private,size btw 4 and 6
@@ -1101,6 +1115,7 @@ Kenya,Urban,No,25,Female,Head of Household,Married/Living together,No formal edu
 Kenya,Urban,Yes,24,Male,Head of Household,Single/Never Married,Secondary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,18,Female,Child,Single/Never Married,Secondary education,Dont Know/Refuse to answer,size btw 4 and 6
 Kenya,Rural,No,60,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
+Kenya,Rural,No,91,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,No,75,Male,Spouse,Married/Living together,Primary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,28,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,66,Female,Head of Household,Widowed,Primary education,Dont Know/Refuse to answer,size 3 or below
@@ -1246,6 +1261,7 @@ Kenya,Rural,Yes,38,Female,Spouse,Married/Living together,Primary education,Infor
 Kenya,Urban,No,79,Female,Head of Household,Widowed,Primary education,Self employed,size 3 or below
 Kenya,Urban,Yes,65,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,66,Male,Head of Household,Widowed,Primary education,Informally employed,size 3 or below
+Kenya,Urban,Yes,43,Female,Spouse,Married/Living together,No formal education,Self employed,size btw 7 and 10
 Kenya,Rural,Yes,69,Male,Head of Household,Widowed,Primary education,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,26,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size 3 or below
@@ -1530,6 +1546,7 @@ Kenya,Rural,No,57,Male,Head of Household,Married/Living together,Primary educati
 Kenya,Rural,Yes,35,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 7 and 10
 Kenya,Rural,Yes,54,Male,Child,Married/Living together,Secondary education,Informally employed,size btw 7 and 10
 Kenya,Urban,Yes,25,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed,size btw 4 and 6
+Kenya,Rural,Yes,64,Male,Head of Household,Married/Living together,No formal education,Self employed,size btw 4 and 6
 Kenya,Rural,Yes,22,Male,Child,Single/Never Married,Secondary education,Remittance Dependent,size btw 4 and 6
 Kenya,Urban,Yes,40,Male,Head of Household,Married/Living together,Secondary education,Self employed,size btw 4 and 6
 Kenya,Rural,Yes,25,Male,Child,Single/Never Married,Primary education,Farming and Fishing,size 3 or below
@@ -1601,6 +1618,7 @@ Kenya,Rural,Yes,24,Female,Spouse,Married/Living together,Primary education,Remit
 Kenya,Urban,Yes,21,Male,Child,Single/Never Married,Tertiary education,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,32,Male,Head of Household,Married/Living together,Secondary education,Formally employed Government,size 3 or below
 Kenya,Urban,Yes,20,Female,Head of Household,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
+Kenya,Rural,Yes,50,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,26,Male,Head of Household,Married/Living together,Secondary education,Self employed,size 3 or below
 Kenya,Rural,No,20,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Kenya,Urban,Yes,24,Female,Head of Household,Married/Living together,Primary education,Remittance Dependent,size 3 or below
@@ -1679,6 +1697,7 @@ Kenya,Urban,No,82,Female,Head of Household,Widowed,Primary education,Remittance 
 Kenya,Rural,Yes,59,Female,Head of Household,Widowed,Primary education,Formally employed Private,size btw 4 and 6
 Kenya,Urban,Yes,35,Female,Spouse,Married/Living together,No formal education,Remittance Dependent,size btw 7 and 10
 Kenya,Rural,No,30,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 7 and 10
+Kenya,Urban,Yes,86,Male,Head of Household,Widowed,Primary education,Remittance Dependent,size 3 or below
 Kenya,Rural,No,65,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,Yes,31,Male,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Kenya,Urban,Yes,37,Female,Other non-relatives,Single/Never Married,Primary education,Formally employed Private,size btw 4 and 6
@@ -1710,6 +1729,7 @@ Kenya,Rural,Yes,20,Male,Other relative,Single/Never Married,Secondary education,
 Kenya,Rural,No,46,Female,Spouse,Married/Living together,No formal education,Remittance Dependent,size btw 7 and 10
 Kenya,Urban,Yes,34,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Kenya,Urban,Yes,38,Female,Head of Household,Divorced/Seperated,Vocational/Specialised training,Self employed,size btw 4 and 6
+Kenya,Urban,Yes,95,Female,Head of Household,Married/Living together,No formal education,Government Dependent,size 3 or below
 Kenya,Rural,Yes,19,Male,Child,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
 Kenya,Urban,Yes,20,Female,Head of Household,Married/Living together,Primary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,27,Female,Other relative,Single/Never Married,Tertiary education,Informally employed,size btw 7 and 10
@@ -1725,6 +1745,7 @@ Kenya,Rural,Yes,70,Female,Head of Household,Widowed,No formal education,Remittan
 Kenya,Urban,Yes,30,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed,size 3 or below
 Kenya,Rural,Yes,75,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Kenya,Rural,No,21,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
+Kenya,Urban,Yes,43,Female,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Kenya,Urban,Yes,29,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 7 and 10
 Kenya,Rural,Yes,47,Female,Head of Household,Widowed,Secondary education,Informally employed,size btw 4 and 6
 Kenya,Rural,Yes,23,Female,Child,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
@@ -1798,6 +1819,7 @@ Kenya,Urban,Yes,30,Male,Head of Household,Married/Living together,Secondary educ
 Kenya,Urban,Yes,32,Male,Head of Household,Married/Living together,Primary education,Self employed,size 3 or below
 Kenya,Urban,Yes,65,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,43,Male,Head of Household,Married/Living together,Secondary education,Informally employed,size 3 or below
+Kenya,Rural,No,93,Female,Head of Household,Widowed,No formal education,Government Dependent,size 3 or below
 Kenya,Rural,Yes,35,Female,Spouse,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
 Kenya,Rural,Yes,68,Male,Head of Household,Married/Living together,No formal education,Self employed,size btw 4 and 6
 Kenya,Urban,No,17,Male,Child,Single/Never Married,Primary education,Remittance Dependent,size btw 4 and 6
@@ -1935,6 +1957,7 @@ Kenya,Urban,Yes,26,Female,Spouse,Married/Living together,Vocational/Specialised 
 Kenya,Urban,Yes,18,Male,Child,Single/Never Married,Secondary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,78,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Kenya,Rural,Yes,20,Female,Spouse,Married/Living together,Primary education,Remittance Dependent,size btw 4 and 6
+Kenya,Rural,Yes,90,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size btw 4 and 6
 Kenya,Urban,Yes,38,Female,Head of Household,Married/Living together,Vocational/Specialised training,Self employed,size btw 4 and 6
 Kenya,Urban,Yes,36,Female,Spouse,Married/Living together,Secondary education,Formally employed Government,size 3 or below
 Kenya,Rural,Yes,38,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
@@ -2247,6 +2270,7 @@ Kenya,Urban,Yes,42,Male,Head of Household,Married/Living together,Primary educat
 Kenya,Urban,Yes,24,Female,Head of Household,Single/Never Married,Vocational/Specialised training,Remittance Dependent,size 3 or below
 Kenya,Rural,No,16,Male,Child,Single/Never Married,Primary education,Remittance Dependent,size btw 7 and 10
 Kenya,Urban,Yes,25,Female,Spouse,Married/Living together,Secondary education,Informally employed,size 3 or below
+Kenya,Rural,No,90,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,66,Female,Head of Household,Widowed,Primary education,Remittance Dependent,size 3 or below
 Kenya,Rural,Yes,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 7 and 10
 Kenya,Rural,Yes,68,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
@@ -2254,6 +2278,7 @@ Kenya,Rural,Yes,40,Female,Head of Household,Married/Living together,Primary educ
 Kenya,Rural,No,50,Male,Head of Household,Married/Living together,Secondary education,Informally employed,size btw 4 and 6
 Kenya,Urban,Yes,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Kenya,Rural,Yes,32,Female,Spouse,Married/Living together,No formal education,Remittance Dependent,size btw 4 and 6
+Kenya,Rural,No,95,Female,Head of Household,Widowed,No formal education,Other Income,size 3 or below
 Kenya,Urban,Yes,16,Male,Child,Single/Never Married,Secondary education,Remittance Dependent,size btw 4 and 6
 Kenya,Rural,Yes,44,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Kenya,Rural,Yes,50,Male,Head of Household,Married/Living together,Primary education,Self employed,size above 10
@@ -2461,6 +2486,7 @@ Kenya,Rural,No,28,Female,Spouse,Married/Living together,Secondary education,Remi
 Kenya,Rural,No,25,Female,Head of Household,Married/Living together,Secondary education,Remittance Dependent,size btw 4 and 6
 Kenya,Urban,Yes,20,Female,Head of Household,Single/Never Married,Secondary education,Self employed,size 3 or below
 Kenya,Rural,Yes,47,Female,Head of Household,Married/Living together,Primary education,Remittance Dependent,size 3 or below
+Kenya,Rural,No,88,Female,Head of Household,Widowed,No formal education,Government Dependent,size 3 or below
 Kenya,Urban,Yes,25,Male,Head of Household,Married/Living together,Secondary education,Formally employed Private,size 3 or below
 Kenya,Rural,Yes,30,Male,Parent,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
 Kenya,Urban,Yes,20,Female,Other relative,Single/Never Married,Vocational/Specialised training,Remittance Dependent,size 3 or below
@@ -2613,6 +2639,7 @@ Rwanda,Rural,Yes,20,Male,Other relative,Single/Never Married,Primary education,F
 Rwanda,Rural,Yes,68,Male,Head of Household,Married/Living together,Secondary education,Other Income,size btw 4 and 6
 Rwanda,Rural,Yes,45,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,88,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,No,49,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,Yes,43,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,48,Male,Head of Household,Divorced/Seperated,Secondary education,Farming and Fishing,size btw 4 and 6
@@ -2739,6 +2766,7 @@ Rwanda,Rural,Yes,53,Female,Spouse,Married/Living together,No formal education,Fa
 Rwanda,Rural,No,45,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,40,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,Yes,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,86,Male,Head of Household,Widowed,No formal education,Government Dependent,size btw 4 and 6
 Rwanda,Rural,Yes,23,Male,Child,Single/Never Married,Secondary education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,60,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Urban,Yes,17,Male,Child,Single/Never Married,Primary education,Other Income,size btw 4 and 6
@@ -2874,6 +2902,7 @@ Rwanda,Rural,Yes,64,Male,Head of Household,Married/Living together,Secondary edu
 Rwanda,Rural,Yes,40,Male,Head of Household,Married/Living together,Primary education,Formally employed Government,size btw 7 and 10
 Rwanda,Rural,Yes,32,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,29,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size 3 or below
+Rwanda,Rural,No,87,Male,Head of Household,Divorced/Seperated,Primary education,Other Income,size 3 or below
 Rwanda,Rural,Yes,61,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Urban,Yes,42,Male,Head of Household,Married/Living together,Primary education,Formally employed Private,size 3 or below
 Rwanda,Rural,Yes,50,Female,Spouse,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
@@ -3130,6 +3159,7 @@ Rwanda,Rural,Yes,41,Female,Head of Household,Divorced/Seperated,Primary educatio
 Rwanda,Rural,Yes,56,Female,Head of Household,Widowed,No formal education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,40,Male,Head of Household,Widowed,Secondary education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,31,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size 3 or below
+Rwanda,Rural,Yes,94,Male,Head of Household,Widowed,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,No,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,54,Male,Other relative,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,Yes,20,Male,Child,Single/Never Married,Primary education,Farming and Fishing,size btw 4 and 6
@@ -3161,6 +3191,7 @@ Rwanda,Rural,Yes,35,Female,Spouse,Married/Living together,Primary education,Farm
 Rwanda,Rural,Yes,27,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
 Rwanda,Urban,Yes,40,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,No,25,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 4 and 6
+Rwanda,Rural,No,49,Female,Head of Household,Widowed,No formal education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,84,Male,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,45,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,35,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 7 and 10
@@ -3175,6 +3206,7 @@ Rwanda,Rural,Yes,36,Male,Head of Household,Married/Living together,Secondary edu
 Rwanda,Rural,No,42,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,64,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,No,30,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
+Rwanda,Rural,No,95,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Rural,No,33,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,33,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Rwanda,Rural,Yes,45,Female,Spouse,Married/Living together,No formal education,Farming and Fishing,size btw 7 and 10
@@ -3198,6 +3230,7 @@ Rwanda,Rural,Yes,27,Female,Head of Household,Single/Never Married,Primary educat
 Rwanda,Rural,Yes,60,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,29,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,Yes,89,Female,Head of Household,Widowed,Primary education,Other Income,size 3 or below
 Rwanda,Rural,Yes,74,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,25,Female,Parent,Divorced/Seperated,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
@@ -3286,6 +3319,7 @@ Rwanda,Rural,Yes,39,Female,Spouse,Married/Living together,Primary education,Farm
 Rwanda,Urban,Yes,46,Male,Head of Household,Single/Never Married,Primary education,Formally employed Private,size 3 or below
 Rwanda,Urban,Yes,50,Male,Head of Household,Married/Living together,Primary education,Formally employed Government,size btw 4 and 6
 Rwanda,Rural,Yes,33,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
+Rwanda,Urban,No,36,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,43,Female,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,59,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing,size btw 4 and 6
 Rwanda,Urban,Yes,17,Female,Other non-relatives,Single/Never Married,Primary education,Informally employed,size btw 4 and 6
@@ -3317,6 +3351,7 @@ Rwanda,Rural,Yes,55,Male,Head of Household,Married/Living together,No formal edu
 Rwanda,Rural,Yes,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,23,Male,Child,Single/Never Married,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,59,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size 3 or below
+Rwanda,Rural,No,86,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,52,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,No,67,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,61,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
@@ -3693,6 +3728,7 @@ Rwanda,Rural,No,42,Female,Head of Household,Divorced/Seperated,Primary education
 Rwanda,Urban,Yes,25,Female,Spouse,Married/Living together,Primary education,Remittance Dependent,size 3 or below
 Rwanda,Rural,Yes,75,Female,Head of Household,Married/Living together,No formal education,Government Dependent,size 3 or below
 Rwanda,Rural,Yes,41,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,Yes,90,Male,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,53,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,Yes,36,Male,Head of Household,Married/Living together,Secondary education,Self employed,size btw 4 and 6
 Rwanda,Rural,Yes,63,Female,Head of Household,Widowed,Primary education,Informally employed,size 3 or below
@@ -3719,6 +3755,7 @@ Rwanda,Rural,Yes,34,Female,Spouse,Married/Living together,No formal education,In
 Rwanda,Rural,Yes,34,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 7 and 10
 Rwanda,Rural,Yes,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,32,Female,Parent,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,26,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,30,Female,Spouse,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,27,Female,Spouse,Married/Living together,Primary education,Other Income,size btw 4 and 6
 Rwanda,Rural,Yes,40,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
@@ -3783,6 +3820,7 @@ Rwanda,Rural,Yes,17,Male,Other relative,Single/Never Married,Primary education,I
 Rwanda,Rural,No,22,Female,Spouse,Single/Never Married,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,43,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Urban,Yes,40,Female,Spouse,Married/Living together,Vocational/Specialised training,Formally employed Private,size btw 4 and 6
+Rwanda,Rural,Yes,19,Female,Child,Single/Never Married,No formal education,Remittance Dependent,size btw 7 and 10
 Rwanda,Rural,Yes,16,Female,Child,Single/Never Married,Primary education,Informally employed,size btw 7 and 10
 Rwanda,Rural,Yes,39,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,No,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
@@ -3858,6 +3896,7 @@ Rwanda,Rural,No,54,Female,Head of Household,Widowed,No formal education,Informal
 Rwanda,Rural,Yes,29,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,No,23,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Urban,No,47,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 7 and 10
+Rwanda,Rural,No,91,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,39,Female,Child,Single/Never Married,Primary education,Informally employed,size 3 or below
 Rwanda,Urban,Yes,19,Male,Child,Single/Never Married,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Urban,Yes,25,Female,Spouse,Married/Living together,Secondary education,Informally employed,size 3 or below
@@ -4129,6 +4168,7 @@ Rwanda,Rural,Yes,21,Female,Child,Single/Never Married,Primary education,Farming 
 Rwanda,Urban,Yes,35,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,22,Male,Child,Single/Never Married,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,Yes,90,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Urban,Yes,49,Male,Head of Household,Married/Living together,Vocational/Specialised training,Formally employed Private,size btw 7 and 10
 Rwanda,Rural,No,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,No,33,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
@@ -4237,6 +4277,7 @@ Rwanda,Rural,Yes,43,Female,Head of Household,Widowed,No formal education,Farming
 Rwanda,Rural,Yes,38,Female,Spouse,Married/Living together,No formal education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,21,Female,Child,Single/Never Married,Primary education,Informally employed,size btw 7 and 10
 Rwanda,Urban,Yes,42,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
+Rwanda,Rural,No,91,Female,Head of Household,Widowed,No formal education,Other Income,size 3 or below
 Rwanda,Rural,Yes,35,Male,Head of Household,Married/Living together,Primary education,Other Income,size btw 4 and 6
 Rwanda,Urban,Yes,43,Male,Spouse,Married/Living together,Secondary education,Other Income,size btw 4 and 6
 Rwanda,Rural,Yes,25,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
@@ -4283,6 +4324,7 @@ Rwanda,Rural,Yes,64,Male,Head of Household,Married/Living together,Primary educa
 Rwanda,Rural,Yes,24,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,55,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,45,Male,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,80,Male,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Urban,Yes,35,Male,Head of Household,Married/Living together,Primary education,Other Income,size btw 4 and 6
 Rwanda,Rural,Yes,23,Female,Child,Single/Never Married,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,55,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed,size btw 4 and 6
@@ -4382,6 +4424,7 @@ Rwanda,Rural,Yes,30,Male,Head of Household,Married/Living together,Primary educa
 Rwanda,Urban,Yes,40,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 4 and 6
 Rwanda,Rural,No,67,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,No,55,Female,Head of Household,Widowed,No formal education,Informally employed,size 3 or below
+Rwanda,Rural,No,44,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 7 and 10
 Rwanda,Rural,Yes,42,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,21,Male,Parent,Single/Never Married,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,38,Male,Head of Household,Married/Living together,Primary education,Formally employed Private,size btw 4 and 6
@@ -4583,6 +4626,7 @@ Rwanda,Rural,Yes,66,Female,Head of Household,Divorced/Seperated,No formal educat
 Rwanda,Urban,Yes,33,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,30,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,No,63,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,88,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,31,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,61,Female,Spouse,Married/Living together,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,33,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 7 and 10
@@ -4669,6 +4713,7 @@ Rwanda,Rural,No,26,Female,Spouse,Married/Living together,Primary education,Self 
 Rwanda,Rural,No,41,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,24,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Urban,Yes,32,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
+Rwanda,Rural,No,86,Male,Head of Household,Widowed,Primary education,Government Dependent,size 3 or below
 Rwanda,Rural,Yes,55,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,34,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,No,40,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed,size btw 4 and 6
@@ -4858,6 +4903,7 @@ Rwanda,Rural,Yes,33,Male,Head of Household,Married/Living together,Primary educa
 Rwanda,Rural,No,68,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,19,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,No,47,Female,Head of Household,Widowed,No formal education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,99,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Rural,Yes,64,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,Yes,36,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Rwanda,Urban,Yes,38,Male,Head of Household,Single/Never Married,Secondary education,Informally employed,size btw 4 and 6
@@ -5018,6 +5064,7 @@ Rwanda,Rural,Yes,30,Female,Spouse,Married/Living together,Primary education,Farm
 Rwanda,Rural,No,66,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,27,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,70,Male,Head of Household,Married/Living together,Primary education,Remittance Dependent,size 3 or below
+Rwanda,Rural,No,87,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,37,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,No,62,Male,Head of Household,Married/Living together,No formal education,Informally employed,size btw 4 and 6
 Rwanda,Rural,No,51,Male,Head of Household,Married/Living together,No formal education,Informally employed,size 3 or below
@@ -5675,6 +5722,7 @@ Rwanda,Rural,Yes,58,Male,Head of Household,Married/Living together,Vocational/Sp
 Rwanda,Rural,Yes,37,Female,Spouse,Married/Living together,Primary education,Formally employed Private,size btw 7 and 10
 Rwanda,Rural,No,55,Female,Spouse,Married/Living together,Primary education,Informally employed,size 3 or below
 Rwanda,Rural,No,73,Female,Head of Household,Widowed,Primary education,Remittance Dependent,size 3 or below
+Rwanda,Rural,No,61,Female,Spouse,Married/Living together,No formal education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,20,Female,Child,Single/Never Married,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,73,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,30,Female,Spouse,Married/Living together,Primary education,Formally employed Private,size btw 4 and 6
@@ -5753,6 +5801,7 @@ Rwanda,Rural,No,25,Female,Child,Single/Never Married,Primary education,Informall
 Rwanda,Rural,Yes,58,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Urban,Yes,19,Male,Child,Single/Never Married,Secondary education,Remittance Dependent,size btw 4 and 6
 Rwanda,Urban,Yes,36,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 4 and 6
+Rwanda,Urban,No,73,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Rural,Yes,28,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Rural,Yes,54,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Urban,Yes,35,Female,Spouse,Married/Living together,Tertiary education,Other Income,size btw 4 and 6
@@ -6046,6 +6095,7 @@ Rwanda,Urban,Yes,18,Female,Child,Single/Never Married,Secondary education,Inform
 Rwanda,Rural,Yes,49,Male,Head of Household,Married/Living together,Secondary education,Self employed,size btw 4 and 6
 Rwanda,Rural,Yes,48,Female,Head of Household,Widowed,Secondary education,Self employed,size btw 7 and 10
 Rwanda,Urban,Yes,29,Female,Spouse,Married/Living together,Primary education,Remittance Dependent,size btw 4 and 6
+Rwanda,Rural,No,67,Male,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing,size 3 or below
 Rwanda,Rural,No,35,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 7 and 10
 Rwanda,Rural,Yes,62,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Urban,Yes,24,Female,Other relative,Single/Never Married,Secondary education,Self employed,size 3 or below
@@ -6200,6 +6250,7 @@ Rwanda,Rural,Yes,38,Male,Head of Household,Married/Living together,No formal edu
 Rwanda,Rural,Yes,24,Female,Spouse,Married/Living together,No formal education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,32,Male,Head of Household,Married/Living together,Primary education,Self employed,size 3 or below
 Rwanda,Rural,Yes,50,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size btw 4 and 6
+Rwanda,Rural,No,88,Male,Head of Household,Married/Living together,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Rural,Yes,16,Male,Child,Single/Never Married,Primary education,Remittance Dependent,size btw 7 and 10
 Rwanda,Rural,Yes,34,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed,size 3 or below
 Rwanda,Urban,Yes,27,Female,Parent,Single/Never Married,Primary education,Informally employed,size btw 4 and 6
@@ -6249,6 +6300,7 @@ Rwanda,Rural,Yes,22,Female,Child,Single/Never Married,Primary education,Informal
 Rwanda,Rural,Yes,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing,size btw 4 and 6
 Rwanda,Urban,Yes,47,Female,Spouse,Married/Living together,Secondary education,Informally employed,size 3 or below
 Rwanda,Rural,Yes,20,Female,Spouse,Married/Living together,Primary education,Informally employed,size 3 or below
+Rwanda,Rural,No,92,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Rwanda,Rural,No,46,Female,Spouse,Married/Living together,Primary education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,36,Female,Spouse,Married/Living together,Secondary education,Formally employed Private,size btw 7 and 10
 Rwanda,Rural,No,37,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
@@ -6265,6 +6317,7 @@ Rwanda,Urban,Yes,21,Female,Other non-relatives,Single/Never Married,Primary educ
 Rwanda,Rural,No,57,Female,Head of Household,Widowed,Primary education,Farming and Fishing,size 3 or below
 Rwanda,Rural,Yes,21,Male,Child,Single/Never Married,Secondary education,Remittance Dependent,size 3 or below
 Rwanda,Rural,Yes,26,Male,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
+Rwanda,Rural,No,87,Female,Head of Household,Widowed,No formal education,Government Dependent,size 3 or below
 Rwanda,Rural,No,37,Female,Spouse,Married/Living together,No formal education,Informally employed,size btw 4 and 6
 Rwanda,Rural,Yes,55,Male,Head of Household,Married/Living together,Primary education,Informally employed,size btw 7 and 10
 Rwanda,Rural,Yes,23,Male,Child,Single/Never Married,Secondary education,Farming and Fishing,size 3 or below
@@ -6480,6 +6533,7 @@ Tanzania,Urban,No,60,Female,Head of Household,Widowed,No formal education,Remitt
 Tanzania,Rural,Yes,28,Female,Spouse,Single/Never Married,Primary education,Informally employed,size 3 or below
 Tanzania,Urban,Yes,80,Female,Head of Household,Single/Never Married,Primary education,No Income,size btw 4 and 6
 Tanzania,Urban,Yes,30,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
+Tanzania,Urban,Yes,88,Female,Head of Household,Widowed,Primary education,Self employed,size 3 or below
 Tanzania,Urban,No,17,Male,Parent,Divorced/Seperated,Primary education,Informally employed,size 3 or below
 Tanzania,Rural,Yes,64,Male,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Tanzania,Urban,Yes,32,Female,Spouse,Single/Never Married,Vocational/Specialised training,Formally employed Private,size 3 or below
@@ -6512,6 +6566,7 @@ Tanzania,Rural,No,65,Female,Head of Household,Widowed,No formal education,Self e
 Tanzania,Urban,Yes,54,Male,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Tanzania,Rural,Yes,52,Male,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Tanzania,Urban,No,50,Female,Spouse,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
+Tanzania,Urban,No,88,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,42,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,18,Female,Parent,Divorced/Seperated,Tertiary education,Remittance Dependent,size btw 4 and 6
 Tanzania,Urban,No,65,Male,Head of Household,Married/Living together,Primary education,Self employed,size 3 or below
@@ -6538,6 +6593,7 @@ Tanzania,Rural,Yes,32,Female,Head of Household,Widowed,Primary education,Self em
 Tanzania,Rural,Yes,30,Female,Spouse,Single/Never Married,Secondary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,28,Female,Child,Divorced/Seperated,Tertiary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,22,Male,Head of Household,Divorced/Seperated,Tertiary education,Informally employed,size 3 or below
+Tanzania,Urban,No,100,Female,Head of Household,Widowed,Primary education,Government Dependent,size 3 or below
 Tanzania,Urban,Yes,62,Male,Head of Household,Single/Never Married,Secondary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,72,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,26,Male,Head of Household,Divorced/Seperated,Vocational/Specialised training,Informally employed,size 3 or below
@@ -7340,6 +7396,7 @@ Tanzania,Urban,Yes,37,Female,Spouse,Single/Never Married,Tertiary education,Form
 Tanzania,Urban,No,31,Female,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,26,Male,Head of Household,Single/Never Married,Tertiary education,Self employed,size 3 or below
 Tanzania,Urban,No,20,Male,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
+Tanzania,Urban,No,86,Male,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Tanzania,Urban,Yes,30,Male,Head of Household,Single/Never Married,Vocational/Specialised training,Formally employed Private,size 3 or below
 Tanzania,Urban,Yes,33,Female,Spouse,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,70,Male,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
@@ -7507,6 +7564,7 @@ Tanzania,Urban,No,25,Male,Head of Household,Single/Never Married,Primary educati
 Tanzania,Urban,Yes,25,Male,Head of Household,Single/Never Married,Primary education,Self employed,size btw 4 and 6
 Tanzania,Urban,No,45,Female,Spouse,Single/Never Married,No formal education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,26,Male,Head of Household,Single/Never Married,Secondary education,Self employed,size 3 or below
+Tanzania,Urban,No,90,Male,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Tanzania,Urban,No,45,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,35,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,30,Female,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
@@ -7564,6 +7622,7 @@ Tanzania,Urban,No,26,Female,Spouse,Single/Never Married,Primary education,Self e
 Tanzania,Urban,No,25,Female,Spouse,Single/Never Married,No formal education,Self employed,size 3 or below
 Tanzania,Urban,No,19,Male,Other relative,Divorced/Seperated,Primary education,Informally employed,size 3 or below
 Tanzania,Urban,No,16,Male,Child,Divorced/Seperated,No formal education,No Income,size 3 or below
+Tanzania,Urban,No,91,Female,Head of Household,Widowed,No formal education,Remittance Dependent,size btw 7 and 10
 Tanzania,Urban,Yes,21,Male,Child,Divorced/Seperated,Primary education,Remittance Dependent,size 3 or below
 Tanzania,Rural,Yes,19,Female,Spouse,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,30,Male,Child,Single/Never Married,No formal education,Self employed,size btw 4 and 6
@@ -8017,6 +8076,7 @@ Tanzania,Urban,Yes,20,Male,Parent,Divorced/Seperated,Primary education,Remittanc
 Tanzania,Rural,No,25,Male,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,22,Female,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,27,Male,Parent,Divorced/Seperated,Secondary education,Self employed,size 3 or below
+Tanzania,Urban,No,88,Male,Head of Household,Widowed,No formal education,Remittance Dependent,size 3 or below
 Tanzania,Rural,Yes,19,Male,Other relative,Divorced/Seperated,Primary education,No Income,size btw 4 and 6
 Tanzania,Rural,Yes,38,Female,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Tanzania,Urban,Yes,37,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
@@ -8153,6 +8213,7 @@ Tanzania,Urban,No,22,Male,Head of Household,Single/Never Married,Primary educati
 Tanzania,Urban,Yes,47,Female,Head of Household,Widowed,Primary education,Self employed,size 3 or below
 Tanzania,Urban,No,77,Female,Other relative,Married/Living together,Primary education,Government Dependent,size 3 or below
 Tanzania,Urban,No,33,Female,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
+Tanzania,Urban,No,90,Male,Head of Household,Widowed,Primary education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,21,Male,Parent,Divorced/Seperated,Secondary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,47,Female,Spouse,Single/Never Married,Primary education,Self employed,size btw 4 and 6
 Tanzania,Urban,No,44,Male,Head of Household,Married/Living together,Primary education,Self employed,size 3 or below
@@ -8204,6 +8265,7 @@ Tanzania,Urban,Yes,30,Female,Spouse,Single/Never Married,Primary education,Infor
 Tanzania,Rural,No,37,Male,Head of Household,Single/Never Married,No formal education,Informally employed,size 3 or below
 Tanzania,Rural,Yes,63,Male,Head of Household,Single/Never Married,Primary education,Other Income,size 3 or below
 Tanzania,Urban,No,36,Female,Head of Household,Married/Living together,Primary education,Self employed,size 3 or below
+Tanzania,Urban,Yes,89,Female,Other relative,Widowed,No formal education,No Income,size 3 or below
 Tanzania,Rural,No,20,Male,Other non-relatives,Divorced/Seperated,No formal education,Informally employed,size 3 or below
 Tanzania,Urban,Yes,23,Male,Head of Household,Divorced/Seperated,Tertiary education,Self employed,size 3 or below
 Tanzania,Urban,No,65,Female,Head of Household,Widowed,No formal education,Self employed,size 3 or below
@@ -8242,6 +8304,7 @@ Tanzania,Urban,No,20,Female,Spouse,Single/Never Married,Primary education,Self e
 Tanzania,Urban,Yes,47,Male,Head of Household,Single/Never Married,Primary education,Informally employed,size 3 or below
 Tanzania,Urban,Yes,36,Male,Head of Household,Single/Never Married,Tertiary education,Formally employed Private,size 3 or below
 Tanzania,Rural,Yes,34,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
+Tanzania,Urban,No,86,Male,Head of Household,Single/Never Married,No formal education,No Income,size 3 or below
 Tanzania,Rural,No,25,Female,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Urban,No,66,Male,Head of Household,Widowed,No formal education,No Income,size 3 or below
 Tanzania,Urban,Yes,33,Male,Head of Household,Divorced/Seperated,Primary education,No Income,size 3 or below
@@ -8563,6 +8626,7 @@ Tanzania,Rural,Yes,40,Female,Head of Household,Single/Never Married,Primary educ
 Tanzania,Urban,Yes,58,Male,Head of Household,Single/Never Married,Secondary education,Self employed,size 3 or below
 Tanzania,Urban,No,60,Female,Spouse,Single/Never Married,Primary education,Self employed,size btw 4 and 6
 Tanzania,Urban,No,21,Female,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
+Tanzania,Urban,No,91,Male,Head of Household,Married/Living together,No formal education,Government Dependent,size 3 or below
 Tanzania,Urban,No,26,Female,Spouse,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,40,Female,Head of Household,Married/Living together,Primary education,Self employed,size 3 or below
 Tanzania,Urban,No,37,Female,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
@@ -8611,6 +8675,7 @@ Tanzania,Rural,Yes,23,Male,Head of Household,Divorced/Seperated,Primary educatio
 Tanzania,Rural,Yes,49,Female,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,27,Male,Parent,Divorced/Seperated,Tertiary education,Self employed,size btw 4 and 6
 Tanzania,Urban,Yes,32,Female,Head of Household,Married/Living together,Primary education,Informally employed,size 3 or below
+Tanzania,Rural,No,87,Male,Head of Household,Single/Never Married,No formal education,No Income,size 3 or below
 Tanzania,Urban,Yes,21,Male,Head of Household,Single/Never Married,Tertiary education,Informally employed,size 3 or below
 Tanzania,Urban,Yes,30,Female,Spouse,Single/Never Married,Primary education,Remittance Dependent,size 3 or below
 Tanzania,Rural,Yes,26,Male,Head of Household,Divorced/Seperated,Vocational/Specialised training,No Income,size 3 or below
@@ -8724,6 +8789,7 @@ Tanzania,Urban,Yes,68,Male,Head of Household,Single/Never Married,Tertiary educa
 Tanzania,Rural,Yes,28,Male,Head of Household,Single/Never Married,Tertiary education,Informally employed,size 3 or below
 Tanzania,Urban,Yes,29,Female,Head of Household,Divorced/Seperated,No formal education,No Income,size 3 or below
 Tanzania,Urban,No,69,Female,Head of Household,Widowed,No formal education,No Income,size 3 or below
+Tanzania,Urban,Yes,93,Male,Head of Household,Single/Never Married,No formal education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,22,Female,Spouse,Single/Never Married,Tertiary education,Remittance Dependent,size 3 or below
 Tanzania,Urban,Yes,30,Female,Head of Household,Widowed,Primary education,Self employed,size 3 or below
 Tanzania,Urban,Yes,80,Female,Parent,Divorced/Seperated,Secondary education,Remittance Dependent,size btw 4 and 6
@@ -9043,6 +9109,7 @@ Tanzania,Urban,Yes,28,Female,Head of Household,Single/Never Married,Secondary ed
 Tanzania,Urban,No,27,Female,Parent,Divorced/Seperated,Tertiary education,Self employed,size btw 4 and 6
 Tanzania,Urban,Yes,16,Female,Child,Divorced/Seperated,Primary education,Informally employed,size 3 or below
 Tanzania,Rural,No,50,Male,Head of Household,Single/Never Married,Tertiary education,Informally employed,size btw 4 and 6
+Tanzania,Urban,No,97,Female,Head of Household,Widowed,No formal education,No Income,size 3 or below
 Tanzania,Urban,Yes,35,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Rural,Yes,52,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
 Tanzania,Urban,No,20,Female,Spouse,Single/Never Married,Primary education,Self employed,size 3 or below
@@ -9239,10 +9306,12 @@ Uganda,Rural,Yes,35,Female,Spouse,Married/Living together,Primary education,Self
 Uganda,Rural,No,30,Female,Spouse,Married/Living together,Primary education,Other Income,size btw 7 and 10
 Uganda,Rural,No,27,Female,Spouse,Married/Living together,No formal education,Dont Know/Refuse to answer,size btw 4 and 6
 Uganda,Urban,Yes,35,Female,Head of Household,Divorced/Seperated,Secondary education,Self employed,size btw 4 and 6
+Uganda,Rural,Yes,87,Female,Spouse,Married/Living together,No formal education,Other Income,size 3 or below
 Uganda,Rural,Yes,23,Female,Spouse,Married/Living together,Secondary education,Self employed,size 3 or below
 Uganda,Urban,Yes,32,Female,Head of Household,Divorced/Seperated,Secondary education,Self employed,size btw 7 and 10
 Uganda,Rural,Yes,50,Female,Head of Household,Widowed,Primary education,Other Income,size 3 or below
 Uganda,Rural,No,18,Female,Parent,Single/Never Married,Secondary education,Self employed,size btw 4 and 6
+Uganda,Urban,No,45,Female,Head of Household,Single/Never Married,No formal education,Self employed,size 3 or below
 Uganda,Rural,No,21,Male,Child,Married/Living together,Secondary education,No Income,size btw 7 and 10
 Uganda,Rural,No,21,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Uganda,Rural,Yes,34,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 7 and 10
@@ -9417,6 +9486,7 @@ Uganda,Rural,Yes,38,Female,Spouse,Married/Living together,No formal education,Se
 Uganda,Rural,Yes,32,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Uganda,Urban,Yes,24,Female,Spouse,Married/Living together,Vocational/Specialised training,No Income,size 3 or below
 Uganda,Urban,Yes,33,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 7 and 10
+Uganda,Rural,Yes,87,Female,Spouse,Married/Living together,No formal education,Self employed,size btw 4 and 6
 Uganda,Rural,Yes,19,Male,Parent,Single/Never Married,Primary education,Self employed,size btw 7 and 10
 Uganda,Rural,Yes,61,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Uganda,Rural,Yes,48,Female,Spouse,Married/Living together,No formal education,Self employed,size 3 or below
@@ -9811,6 +9881,7 @@ Uganda,Urban,Yes,35,Male,Head of Household,Single/Never Married,Primary educatio
 Uganda,Rural,Yes,45,Male,Head of Household,Married/Living together,No formal education,Self employed,size btw 4 and 6
 Uganda,Rural,No,65,Male,Head of Household,Married/Living together,Primary education,Self employed,size above 10
 Uganda,Urban,Yes,21,Female,Spouse,Married/Living together,Primary education,No Income,size btw 4 and 6
+Uganda,Urban,Yes,48,Female,Head of Household,Widowed,No formal education,Other Income,size 3 or below
 Uganda,Rural,No,65,Male,Head of Household,Married/Living together,No formal education,Other Income,size 3 or below
 Uganda,Rural,Yes,24,Female,Parent,Married/Living together,Primary education,Other Income,size 3 or below
 Uganda,Rural,Yes,25,Female,Spouse,Married/Living together,Primary education,No Income,size btw 4 and 6
@@ -9833,6 +9904,7 @@ Uganda,Rural,No,37,Male,Head of Household,Divorced/Seperated,Primary education,S
 Uganda,Rural,No,56,Female,Head of Household,Widowed,Primary education,Formally employed Private,size 3 or below
 Uganda,Rural,Yes,24,Female,Spouse,Married/Living together,Secondary education,Dont Know/Refuse to answer,size 3 or below
 Uganda,Rural,Yes,20,Male,Head of Household,Single/Never Married,Primary education,Self employed,size 3 or below
+Uganda,Rural,Yes,87,Male,Head of Household,Married/Living together,No formal education,Other Income,size 3 or below
 Uganda,Rural,Yes,38,Female,Spouse,Married/Living together,No formal education,Self employed,size btw 7 and 10
 Uganda,Rural,Yes,27,Female,Spouse,Married/Living together,Secondary education,No Income,size btw 4 and 6
 Uganda,Rural,Yes,30,Male,Head of Household,Single/Never Married,Secondary education,Other Income,size 3 or below
@@ -9853,6 +9925,7 @@ Uganda,Rural,Yes,61,Female,Head of Household,Widowed,Primary education,Self empl
 Uganda,Rural,Yes,28,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 7 and 10
 Uganda,Rural,No,27,Female,Spouse,Married/Living together,Primary education,Self employed,size btw 4 and 6
 Uganda,Rural,No,35,Male,Head of Household,Married/Living together,Primary education,Self employed,size btw 7 and 10
+Uganda,Rural,Yes,95,Male,Head of Household,Married/Living together,No formal education,No Income,size 3 or below
 Uganda,Urban,Yes,27,Female,Head of Household,Divorced/Seperated,Secondary education,Formally employed Private,size 3 or below
 Uganda,Rural,No,56,Female,Head of Household,Widowed,No formal education,Self employed,size 3 or below
 Uganda,Rural,Yes,32,Female,Spouse,Married/Living together,Primary education,No Income,size btw 4 and 6
